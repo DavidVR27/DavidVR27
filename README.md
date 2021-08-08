@@ -1,7 +1,9 @@
 # console.log('Hello World! My name is [**Tony**][Twitter]👋);
 
 
-**Tony-retard/Tony-retard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! Welcome to my GitHub profile. I'm a Systems Engineer student in Lima, Peru. 
+
+I'm currently doing my personal projects and taking courses in different institutions.
 
 
 <!--LINKS-->
