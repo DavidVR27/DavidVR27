@@ -1,6 +1,6 @@
 # console.log('Hello World! My name is **Tony**👋);
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
+![Twitter](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
 
 
 ---
