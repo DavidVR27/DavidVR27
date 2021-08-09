@@ -1,4 +1,4 @@
-# console.log('Hello World! My name is **Tony**👋);
+# console.log('Hello World! My name is **Tony**👋');
 
 ![Twitter](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
 
@@ -32,7 +32,7 @@
 
 ✉️ E-mail: t0nnyy@protonmail.com
 <br>
-📫 Discord:<a href="https://discord.gg/https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/746000879169306664" height="30" width="40" /></a>
+📫 Discord:<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/746000879169306664" height="30" width="40" /></a>
  
 
 <!--LINKS-->
