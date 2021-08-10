@@ -4,7 +4,7 @@
 
 
 ---
-### 👋 **Hi!** Welcome to my GitHub profile. I'm student in <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="bootstrap" width="40" height="20"/> </a>  Lima, Peru. 
+### 👋**Welcome** to my GitHub profile. I'm student in <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="bootstrap" width="40" height="20"/> </a>  Lima, Peru. 
 
 ### I'm currently doing my personal projects and taking courses in different institutions.
 
