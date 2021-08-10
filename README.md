@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto)
 
 ![Twitter](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
 
