@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi!%20My%20name%20is%20Tony&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Hi!%20My%20name%20is%20Tony&fontSize=80&fontColor=f9f6ee)
 
 ![Twitter](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
 
