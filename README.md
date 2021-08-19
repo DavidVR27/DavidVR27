@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=Palabras%20%20Parónimas&fontSize=80&fontColor=2a3444)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=Palabras%20%20Excluidas&fontSize=80&fontColor=2a3444)
 
 ![Twitter](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
 
