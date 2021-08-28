@@ -7,7 +7,7 @@
 👋 <strong>Welcome</strong> to my GitHub profile.
 ## ABOUT ME
  I'm a student at Lima, Peru. I'm currently going to study Systems Engineering
-<p>💻 I'm a tech lover, 🚀 Astrophysics Enjoyer, 📚 I like reading Books </p>
+<p>💻 I'm a tech lover, 🚀 Astrophysics Enjoyer, 📚 I like reading Books, 🧮 Intellectually Curious and 🧡 Pet Lover. </p>
 
 <br>
 
