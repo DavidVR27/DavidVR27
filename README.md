@@ -35,9 +35,8 @@
 <br>
 📫 Discord:<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/746000879169306664" height="30" width="40" /></a>
 <br>
-🐦[Twitter Account][Twitter]
+
 
 <!--LINKS-->
 
-[Twitter]: https://twitter.com/Tony_uses_this
 [UWU COLOR]: f9f6ee
