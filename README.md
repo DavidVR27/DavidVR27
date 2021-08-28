@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=El%20Memorial%20y%20Dicto&fontSize=80&fontColor=2a3444)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=El%20Memoriaml%20y%20Dicto&fontSize=80&fontColor=2a3444)
 
 ![Twitter](https://img.shields.io/twitter/follow/Tony_uses_this?label=Tony%27s%20Twitter&logo=Twitter&style=for-the-badge)
 
