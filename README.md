@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=El%20Memoriaml%20y%20Dicto&fontSize=80&fontColor=2a3444)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=Tony&fontSize=80&fontColor=f9f6ee)
 
 
 
