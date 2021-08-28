@@ -6,7 +6,8 @@
 ### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> <img align="right" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/>
 👋 <strong>Welcome</strong> to my GitHub profile.
 ## ABOUT ME
-<h4> I'm a student at Lima, Peru. I consider myself a huge tech fanatic, AstroPhysics </h4>
+<h4><center> I'm a student at Lima, Peru. I consider myself a huge tech fanatic, AstroPhysics </center></h4>
+
 <br>
 
 ## 💻 Tools and Languages I use:
