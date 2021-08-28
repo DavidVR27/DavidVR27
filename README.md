@@ -7,7 +7,7 @@
 👋 <strong>Welcome</strong> to my GitHub profile. I'm a student in <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="bootstrap" width="40" height="20"/> </a>  Lima, Peru. 
 
 ## About Me
-<h2> I'm a student at Lima, Peru. I consider myself a huge tech fanatic, AstroPhysics 
+<h4> I'm a student at Lima, Peru. I consider myself a huge tech fanatic, AstroPhysics </h4>
 <br>
 
 ## 💻 Tools and Languages I use:
