@@ -3,7 +3,7 @@
 
 
 ---
-### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> 
 👋 <strong>Welcome</strong> to my GitHub profile. I'm a student in <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="bootstrap" width="40" height="20"/> </a>  Lima, Peru. 
 
 ### I'm currently doing my personal projects and taking courses in different institutions.
