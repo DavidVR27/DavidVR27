@@ -6,7 +6,7 @@
 ### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> 
 👋 <strong>Welcome</strong> to my GitHub profile. I'm a student in <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg" alt="bootstrap" width="40" height="20"/> </a>  Lima, Peru. 
 
-## About Me
+## ABOUT ME
 <h4> I'm a student at Lima, Peru. I consider myself a huge tech fanatic, AstroPhysics </h4>
 <br>
 
