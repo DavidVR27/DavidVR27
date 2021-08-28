@@ -7,8 +7,8 @@
 <p align="center">👋 <strong>Welcome</strong> to my GitHub profile</p>
 
 ## ABOUT ME:
-<p align="center">I'm a student at Lima, Peru. I'm currently going to study ⚙️ Systems Engineering. </p>
-<p align="center">💻 I'm a tech lover, 🚀 Astrophysics Enjoyer, 📚 I like reading Books, 🧮 Intellectually Curious and 🧡 Pet Lover. </p>
+<p>I'm a student at Lima, Peru. I'm currently going to study ⚙️ Systems Engineering. </p>
+<p>💻 I'm a tech lover, 🚀 Astrophysics Enjoyer, 📚 I like reading Books, 🧮 Intellectually Curious and 🧡 Pet Lover. </p>
 
 <br>
 
