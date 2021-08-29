@@ -25,6 +25,8 @@
 </div>
 <br>
 
+<figure><embed src="https://wakatime.com/share/@Tony_retard/7926fbaf-c5c0-446d-8aca-567de7a00b2c.svg"></embed></figure>
+
 
 <!--LINKS-->
 
