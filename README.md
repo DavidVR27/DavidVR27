@@ -22,6 +22,7 @@
 <a align="center" href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/746000879169306664" height="30" width="40"/>Discord | Tonyyy#0277</a>
 </div>
 <br>
+
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg)
 
 
