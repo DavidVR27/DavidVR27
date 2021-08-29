@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=Tony&fontSize=80&fontColor=f9f6ee)
 
-
-<figure><embed src="https://wakatime.com/share/@Tony_retard/7926fbaf-c5c0-446d-8aca-567de7a00b2c.svg"></embed></figure>
+![wakatime](https://wakatime.com/share/@Tony_retard/7926fbaf-c5c0-446d-8aca-567de7a00b2c.svg)
 ---
 ### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> <img align="right" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/>
 <p align="center">👋 <strong>Welcome</strong> to my GitHub profile</p>
