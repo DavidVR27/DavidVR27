@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2a3444&text=Tony&fontSize=80&fontColor=f9f6ee)
 
-![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg)
 ---
 ### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> <img align="right" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/>
 <p align="center">👋 <strong>Welcome</strong> to my GitHub profile</p>
@@ -23,7 +22,7 @@
 <a align="center" href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/746000879169306664" height="30" width="40"/>Discord | Tonyyy#0277</a>
 </div>
 <br>
-
+![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg)
 
 
 
