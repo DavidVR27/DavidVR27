@@ -45,12 +45,13 @@
 <h2 align="center"> Contact Info: </h2>
 
 <div class="info" align="center">
-<a align="center" href="t0nnyy@protonmail.com">✉️ E-mail</a>
+<a href="https://discord.com/users/746000879169306664" target="_blank"><img align="center" alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-43853d?style=flat-square&logo=ProtonMails&logoColor=white" /></a>
 <a href="https://discord.com/users/746000879169306664" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
 <br>
 
-
-
+<!--PASTING
+"ProtonMail" src="https://img.shields.io/badge/-ProtonMail-43853d?style=flat-square&logo=ProtonMails&logoColor=white"
+-->
 
 <!--LINKS-->
 
