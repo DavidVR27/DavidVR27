@@ -46,8 +46,9 @@
 
 <div class="info" align="center">
 <a align="center" href="t0nnyy@protonmail.com">✉️ E-mail</a>
-<a align="center" href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/746000879169306664" height="30" width="40"/>Discord | Tonyyy#0277</a>
-</div>
+<a href="https://discord.com/users/746000879169306664">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 <br>
 
 
