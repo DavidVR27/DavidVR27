@@ -47,7 +47,7 @@
 <div class="info" align="center">
 <a align="center" href="t0nnyy@protonmail.com">✉️ E-mail</a>
 <a href="https://discord.com/users/746000879169306664">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="center" alt="Tony's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <br>
 
