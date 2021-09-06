@@ -49,7 +49,6 @@
 <a href="https://discord.com/users/746000879169306664" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
 <br>
 
- https://discord.com/users/746000879169306664
 
 
 
