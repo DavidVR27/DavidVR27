@@ -6,7 +6,6 @@
 ## ABOUT ME:
 <p>I'm a student at Lima, Peru. I'm currently going to study ⚙️ Systems Engineering. </p>
 <p>💻 I'm a tech lover, 🚀 Astrophysics Enjoyer, 📚 Bibliophile, 🧮 Intellectually Curious and 🧡 Pet Lover. </p>
-
 <br>
 
 <h2 align="center"> My Skills: </h2> 
