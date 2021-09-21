@@ -54,7 +54,7 @@ HEADER: https://capsule-render.vercel.app/api?type=transparent&text=Literatura%2
 
 -->
 
-<!--LINKS-->
+<!--LINKS
 
 [BLANCO]: f9f6ee
-[AZUL MARINO]: 
+[AZUL MARINO]: --> 
