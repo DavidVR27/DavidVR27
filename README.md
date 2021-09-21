@@ -1,7 +1,7 @@
 
 ---
 ### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> <img align="right" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/>
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <strong>Welcome</strong> to my GitHub profile</p>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <strong>Welcome</strong> to my GitHub profile :) </p>
 
 ## ABOUT ME:
 <p>I'm a student at Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
