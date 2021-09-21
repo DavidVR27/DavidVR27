@@ -55,4 +55,5 @@
 
 <!--LINKS-->
 
-[UWU COLOR]: f9f6ee
+[BLANCO]: f9f6ee
+[AZUL MARINO]: 
