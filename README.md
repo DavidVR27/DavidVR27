@@ -50,6 +50,7 @@
 
 <!--PASTING
 "ProtonMail" src="https://img.shields.io/badge/-ProtonMail-43853d?style=flat-square&logo=ProtonMails&logoColor=white"
+HEADER: https://capsule-render.vercel.app/api?type=transparent&text=Literatura%20del%20Romanticismo&fontColor=2d4760&fontSize=50
 
 -->
 
