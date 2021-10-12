@@ -1,5 +1,4 @@
 
----
 ### <img align="left" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/> <img align="right" src="https://66.media.tumblr.com/cd7efcbff3169e643081bc92c87729f9/tumblr_mqq88jdn1K1rfjowdo1_500.gif" width="150"/>
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <strong>Welcome</strong> to my GitHub profile :) </p>
 
@@ -50,12 +49,10 @@ Discord: DavidVR#0277
 <br>
 
 <!--PASTING
-"ProtonMail" src="https://img.shields.io/badge/-ProtonMail-43853d?style=flat-square&logo=ProtonMails&logoColor=white"
 HEADER: https://capsule-render.vercel.app/api?type=transparent&text=Literatura%20del%20Romanticismo&fontColor=2d4760&fontSize=50
 
--->
 
-<!--LINKS
+LINKS
 
 [BLANCO]: f9f6ee
-[AZUL MARINO]: --> 
+[AZUL MARINO]: -->
