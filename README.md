@@ -5,7 +5,7 @@
 
 <p>I'm a student at Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
 
-- 💻 I'm a tech lover
+- 💻 Tech lover
 - 🚀 Astrophysics Enjoyer 
 - 📚 Bibliophile 
 - 🧮 Intellectually Curious  
