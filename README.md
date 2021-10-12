@@ -46,7 +46,7 @@
 <h2 align="center"> Contact Info: </h2>
 
 <div class="info" align="center">
-Discord: `lacolaco#4523`
+Discord: DavidVR#0277
 <br>
 
 <!--PASTING
