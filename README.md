@@ -39,7 +39,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h2 align="center">Coding Activity</h2>
+<h2 align="center">Coding Activity </h2>
+
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg)
 
 <h2 align="center"> Contact Info: </h2>
