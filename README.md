@@ -49,7 +49,7 @@
 
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg) 
 
-<h2 align="center"> Contact Info: </h2>
+## Contact Info: 
 
 <div class="info" align="center">
  
