@@ -3,6 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <strong>Welcome</strong> to my GitHub profile :) </p>
 
 ## ABOUT ME:
+
 <p>I'm a student at Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
 <p>💻 I'm a tech lover, 🚀 Astrophysics Enjoyer, 📚 Bibliophile, 🧮 Intellectually Curious and 🧡 Pet Lover. </p>
 <br>
