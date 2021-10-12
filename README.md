@@ -46,8 +46,9 @@
 <h2 align="center"> Contact Info: </h2>
 
 <div class="info" align="center">
-Discord: DavidVR#0277
-<br>
+ 
+>> Discord: DavidVR#0277
+
 
 <!--PASTING
 HEADER: https://capsule-render.vercel.app/api?type=transparent&text=Literatura%20del%20Romanticismo&fontColor=2d4760&fontSize=50
