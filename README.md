@@ -51,7 +51,7 @@
 
 ## Contact Info: 
 
-Discord: ``DavidVR#0277``
+- Discord: ``DavidVR#0277``
 
 
 <!--PASTING
