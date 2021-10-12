@@ -11,8 +11,6 @@
 - 🧮 Intellectually Curious  
 - 🐶 Pet Lover
 
-<br>
-
 ## My Skills:
  
 <p>
