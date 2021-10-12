@@ -1,7 +1,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <strong>Welcome</strong> to my GitHub profile :) </p>
 
-## ABOUT ME:
+## Hello, I'm David
 
 <p>I'm a student at Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
 
@@ -11,7 +11,7 @@
 - 🧮 Intellectually Curious  
 - 🐶 Pet Lover
 
-## My Skills:
+## My Skills 💪:
  
 <p>
   <img alt="Reakt" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
