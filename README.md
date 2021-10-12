@@ -39,13 +39,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+## CODING ACTIVITY
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg)
 
 <h2 align="center"> Contact Info: </h2>
 
 <div class="info" align="center">
-<a href="mailto:t0nnyy@protonmail.com" target="_blank"><img align="center" alt="Protonmail" src="https://img.shields.io/badge/-Protonmail-8B89CC?style=flat-square&logo=Protonmails&logoColor=white" /></a>
-<a href="https://discord.com/users/746000879169306664" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-5865f2?style=flat&logo=discord&logoColor=white" /></a>
+Discord: `DavidVR#0277`
 <br>
 
 <!--PASTING
