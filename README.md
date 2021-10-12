@@ -11,7 +11,7 @@
 - 🧮 Intellectually Curious  
 - 🐶 Pet Lover
 
-## My Skills 💪:
+## My Skills 💪
  
 <p>
   <img alt="Reakt" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
@@ -43,11 +43,11 @@
 </p><br>
 
 
-## Coding Activity:
+## Coding Activity 💻
 
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg) 
 
-## Contact Info: 
+## Contact Info 📞
 
 - Discord: ``DavidVR#0277``
 
