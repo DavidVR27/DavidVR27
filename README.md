@@ -9,7 +9,7 @@
 - 🚀 Astrophysics Enjoyer 
 - 📚 Bibliophile 
 - 🧮 Intellectually Curious  
-- 🧡 Pet Lover
+- 🐶 Pet Lover
 
 <br>
 
