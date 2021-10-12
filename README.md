@@ -52,7 +52,7 @@
 
 <div class="info" align="center">
  
-Discord: DavidVR#0277
+ Discord: ``DavidVR#0277``
 
 
 <!--PASTING
