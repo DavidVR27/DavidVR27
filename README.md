@@ -13,7 +13,7 @@
 
 <br>
 
-<h2 align="center"> My Skills: </h2> 
+## MY SKILLS:
  
 <p>
   <img alt="Reakt" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" />
