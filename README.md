@@ -11,7 +11,7 @@
 - 🧮 Intellectually Curious  
 - 🐶 Pet Lover
 
-## My Skills 💪
+<h2 align="center"> My Skills 💪 </h2>
  
 <p align="center">
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/apache.png' height='42px'/>
@@ -52,9 +52,9 @@
 
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg) -->
 
-## Contact Info 🔗
+<h2 align="center"> Contact Info 🔗 </h2>
 
-<p align="left">
+<p align="center">
 <a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>
 <a href="https://twitter.com/davidvilela_r" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" /></a>
 
