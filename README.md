@@ -3,7 +3,7 @@
 
 ## Hello, I'm David
 
-<p>I'm a student at Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
+<p>I'm a student at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/270px-Flag_of_Peru_%28state%29.svg.png" width="13"/> Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
 
 - 💻 Tech lover
 - 🚀 Astrophysics Enjoyer 
