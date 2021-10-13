@@ -43,7 +43,7 @@
 </p><br>
 
 
-<!--## Coding Activity 💻
+<!--## Coding Activity 💻 .
 
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg) -->
 
