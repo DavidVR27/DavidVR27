@@ -47,9 +47,11 @@
 
 ![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg) -->
 
-## Contact Info 📞
+## Contact Info 🔗
 
-- Discord: ``DavidVR#0277``
+<p align="left">
+<a href="https://discord.com/users/746000879169306664"><img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="60px" /></a>
+<a href="https://twitter.com/davidvilela_r"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60px" /></a>
 
 
 <!--PASTING
