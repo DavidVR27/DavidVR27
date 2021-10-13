@@ -50,8 +50,8 @@
 ## Contact Info 🔗
 
 <p align="left">
-<a href="https://discord.com/users/746000879169306664"><img src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="60px" /></a>
-<a href="https://twitter.com/davidvilela_r"><img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" width="60px" /></a>
+<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>
+<a href="https://twitter.com/davidvilela_r" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" /></a>
 
 
 <!--PASTING
