@@ -56,7 +56,7 @@
 
 <p align="center">
 <a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>
-<a href="https://twitter.com/davidvilela_r" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" /></a>
+<!--<a href="https://twitter.com/davidvilela_r" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" /></a>-->
 
 
 <!--PASTING
