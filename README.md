@@ -1,6 +1,6 @@
 <h1 align="center"; style=font-size:20px><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <strong>Hello, I'm David</strong> </h1>
 
-<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>
+<!--<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>-->
 <p> Enthusiastic Front End Developer with over 1 year of experience working in Web Apps Development. I work with frameworks like React, NodeJS, TailwindCSS, JavaScript and more. </p>
 <p>I'm a student at <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
 
