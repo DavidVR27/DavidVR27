@@ -1,7 +1,6 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+David.;Hola,+soy+David.;)](https://git.io/typing-svg)
 
-<!--<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>-->
 <p> Enthusiastic Front End Developer with over 1 year of experience working in Web Apps Development. I work with frameworks like React, NodeJS, TailwindCSS, JavaScript and more. </p>
 <p>I'm a student at <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> Lima, Peru and I'm going to study ⚙️ Systems Engineering. </p>
 
@@ -70,24 +69,9 @@
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DavidVR27&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 
-<!--## Coding Activity 💻 .
-
-![wakatime](https://wakatime.com/share/@Tony_retard/6a4643e9-e5e3-4682-9ea9-284281b9af50.svg) -->
-
-<h2 align="center"> Contact Info 🔗 </h2>
-
-<p align="center">
-<a href="https://discord.com/users/746000879169306664" target="blank"><img align="center" src="https://logos-marcas.com/wp-content/uploads/2020/12/Discord-Logo.png" width="45.1"></a>
-<!--<a href="https://twitter.com/davidvilela_r" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" /></a>-->
-
-
-<!--PASTING
-HEADER: https://capsule-render.vercel.app/api?type=transparent&text=Literatura%20del%20Romanticismo&fontColor=2d4760&fontSize=50
-
-
-LINKS
-
-[BLANCO]: f9f6ee
-[AZUL MARINO]: -->
