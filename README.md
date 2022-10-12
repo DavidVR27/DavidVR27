@@ -2,9 +2,10 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+David.;Hola,+soy+David.;)](https://git.io/typing-svg)
 
 <p> Enthusiastic Front End Developer with over 1 year of experience working in Web Apps Development. I work with frameworks like React, NodeJS, TailwindCSS, JavaScript and more. </p>
-<p>I'm a System's Enigneering student in <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> Lima, Peru and I'm a </p>
+<p>I'm a System's Enigneering student in <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> Lima, Peru. </p>
 
 
+Something cool about me:
 
 - 💻 Tech lover
 - 🚀 Astrophysics Enjoyer 
