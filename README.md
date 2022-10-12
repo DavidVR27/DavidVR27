@@ -7,9 +7,8 @@
 
 Something cool about me:
 
-- 💻 Tech lover
-- 🚀 Astrophysics Enjoyer 
-- 📚 Bibliophile 
+- 💻 Science and Tech lover
+- 📚 History enjoyer
 - 🧮 Intellectually Curious  
 - 🐶 Pet Lover
 
