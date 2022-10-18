@@ -73,8 +73,3 @@ Something cool about me:
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=DavidVR27&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=227qk35y4hxvnotssy2c6qf7i&cover_image=true&theme=default" </div>
-
