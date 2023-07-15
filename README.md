@@ -5,13 +5,6 @@
 <p>I'm a Software Engineer student from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> Lima, Peru. </p>
 
 
-Something cool about me:
-
-- 💻 Science and Tech lover
-- 📚 History enjoyer
-- 🧮 Intellectually Curious  
-- 🐶 Pet Lover
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
