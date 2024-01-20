@@ -7,6 +7,7 @@
   - My name is: David,
   - Pronouns: He/Him,
   - I'm 18 years old
+
 }
 
 <div align="center">
