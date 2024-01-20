@@ -7,10 +7,6 @@
   - My name is: David,
   - Pronouns: He/Him,
   - I'm 18 years old
-  - I'm currently learning HTML and CSS,
-  - I love Caramel Macchiato,
-  - My favorite language is Rust & Typescript
-  
 }
 
 <div align="center">
