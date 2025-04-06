@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>My Skills</h1>
-  <h3>Programming Languages and HTML</h3>
+  <h3>Programming Languages and Frameworks</h3>
   
   <p align="center">
   <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -20,6 +20,9 @@
   <a href="https://github.com/search?q=user%3ASammwyy1+language%3Asass"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ASammwyy1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ASammwyy1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+  <a href="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
+  <a href="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a>
   <a href="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
   
@@ -30,6 +33,7 @@
   <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="PowerBi" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"></a>
+    <a href="#"><img alt="VSCode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
   </p>
 
   <h3>Operating Systems</h3>
