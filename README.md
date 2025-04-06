@@ -26,7 +26,7 @@
   <h3>Software </h3>
   <p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="PowerBi" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"></a>
+    <a href="#"><img alt="PowerBi" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"></a>
   </p>
 </div>
 
