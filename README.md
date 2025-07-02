@@ -25,6 +25,7 @@
   <a href="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
   <a href ="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"><img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"></a>
   <a href="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"></a>
+  <a href="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"></a>
   
   
   </p>
