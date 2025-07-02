@@ -23,6 +23,7 @@
   <a href="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff"></a>
   <a href="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
   <a href="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"><img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"></a>
+  <a href ="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"><img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff"
   
   
   </p>
