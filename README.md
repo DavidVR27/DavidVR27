@@ -1,8 +1,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+David.;Hola,+soy+David.;)](https://git.io/typing-svg)
 
-<p>I'm a 20 year old Systems Engineering student from <img src="https://cdn-icons-png.flaticon.com/512/197/197563.png" width="13"/> Peru. </p>
+{
 
+* 👂 `My name is`: **David**,
+* 👩 `Pronouns`: **He/Him**,
+* ⚡ `I'm`: **20 years old**,
+* 🌱 `I’m currently learning`: **Astro**,
+* ❤️ `I love`: **Caramel macchiato**  ,
+* 💻 `Favorite lang`: **JavaScript** 
+
+}
 
 <div align="center">
   <h1>My Skills</h1>
