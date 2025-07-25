@@ -8,7 +8,7 @@
 * ⚡ `I'm`: **20 years old**,
 * 🌱 `I’m currently learning`: **Astro**,
 * ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **JavaScript** 
+* 💻 `Favorite lang`: **TypeScript** 
 
 }
 
