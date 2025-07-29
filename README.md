@@ -6,9 +6,9 @@
 * 👂 `My name is`: **David**,
 * 🏌️‍♂️ `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **20 years old**,
-* 🌱 `I’m currently learning`: **Astro**,
+* 🌱 `I’m currently learning`: **Go**,
 * ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **TypeScript** 
+* 💻 `Favorite lang`: **Java** 
 
 }
 
