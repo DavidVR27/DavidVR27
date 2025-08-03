@@ -10,7 +10,7 @@
 * 💻 `Favorite lang`: **Java** 
 
 }
-
+<!---
 <div align="center">
   <h1>My Skills</h1>
   <h3>Programming Languages and Frameworks</h3>
@@ -48,4 +48,4 @@
     <a href="#"><img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white"></a>
     
 </div>
-
+--->
