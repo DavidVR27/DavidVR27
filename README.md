@@ -6,7 +6,7 @@
 * 👂 `My name is`: **David**,
 * 🏌️‍♂️ `Pronouns`: **He/Him**,
 * ⚡ `I'm`: **20 years old**,
-* 🌱 `I’m currently learning`: **Go**,
+* 🌱 `I’m currently learning`: **Spring Boot**,
 * 💻 `Favorite lang`: **Java** 
 
 }
