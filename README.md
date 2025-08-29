@@ -12,7 +12,7 @@ I am a fourth-year systems engineering student @ Universidad de Lima, passionate
 <p align="center"> 😁 Take a look at my <a href="https://davidvilelar.vercel.app">portfolio</a> !! </p>
 
 <!-- TECHNICAL SKILLS -->
-## Tech Stack
+## ☕ Tech Stack
 
 ### Languages
 <div>
