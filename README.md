@@ -40,7 +40,7 @@ I am a fourth-year systems engineering student @ Universidad de Lima, passionate
 <div>
     <img src="./assets/excel.svg" width="30" height="50">
     <img src="./assets/git.svg" width="30" height="50">
-    <img src="./assets/visio.svg" width="40" height="50">
+    <img src="./assets/visio.svg" width="50" height="60">
     <img src="./assets/jupyter.svg" width="30" height="40">
 </div>
 
