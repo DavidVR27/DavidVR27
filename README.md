@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+David.;Hola,+soy+David.;)](https://git.io/typing-svg)
 <!-- ABOUT ME -->
 # 👋 About Me
-I am a fourth-year systems engineering student @ Universidad de Lima, passionate about exploring the realms of data science, machine learning, and telling storis with data.
+I am a fourth-year systems engineering student @ Universidad de Lima, passionate about exploring the realms of data science, machine learning, and telling stories with data.
 
 ## 🪴 What I'm up to
 
