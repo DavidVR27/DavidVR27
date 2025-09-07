@@ -9,7 +9,7 @@ I am a fourth-year Systems Engineering student @ Universidad de Lima, passionate
 - 🤖 Exploring Machine Learning 
 - 💻 Analyzing data with Python
 
-<p align="center"> 😁 Take a look at my <a href="https://davidvilelar.vercel.app">portfolio</a> !! </p>
+<p align="center"> 😁 Take a look at my <a href="https://davidvilelar.vercel.app">portfolio</a> and <a href="https://dev.to/davidvr27"> my blog</a> !! </p>
 
 <!-- TECHNICAL SKILLS -->
 ## ☕ Tech Stack
