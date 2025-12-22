@@ -16,7 +16,6 @@ I am a fourth-year Systems Engineering student @ Universidad de Lima, passionate
 
 ### Languages
 <div>
-    <img src="./assets/java.svg" width="40" height="40">
     <img src="./assets/python.svg" width="40" height="40">
     <img src="./assets/rlang.svg" width="40" height="40">
     <img src="./assets/sql.svg" width="40" height="40">
