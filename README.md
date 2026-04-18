@@ -21,7 +21,7 @@ I am a fourth-year Systems Engineering student @ Universidad de Lima, passionate
     <img src="./assets/sql.svg" width="40" height="40">
 </div>
 
-### Analysis Tools
+### BI & Visualization
 <div>
     <img src="./assets/powerbi.svg" width="40" height="40">
     <img src="./assets/looker.svg" width="40" height="40">
@@ -33,20 +33,41 @@ I am a fourth-year Systems Engineering student @ Universidad de Lima, passionate
     <img src="./assets/mysql.svg" width="50" height="50">
     <img src="./assets/postgresql.svg" width="40" height="50">
     <img src="./assets/sqlserver.svg" width="50" height="50">
+    <img src="./assets/azure-databricks.svg" width="40" height="50">
 </div>
+
+### Cloud
+<div>
+    <img src="./assets/azure.svg" width="50" height="40">
+    <img src="./assets/awas.svg" width="50" height="40">
+</div>
+
+### Data Engineering
+<div>
+    <img src="./assets/dbt.svg" width="50" height="50">
+    <img src="./assets/airflow.svg" width="40" height="50">
+</div>
+
 
 ### Tools
 <div>
-    <img src="./assets/excel.svg" width="30" height="50">
-    <img src="./assets/git.svg" width="30" height="50">
-    <img src="./assets/visio.svg" width="50" height="60">
-    <img src="./assets/jupyter.svg" width="30" height="40">
+    <img src="./assets/excel.svg" width="40" height="50">
+    <img src="./assets/git.svg" width="40" height="50">
+    <img src="./assets/jupyter.svg" width="40" height="50">
+    <img src="./assets/pycharm.svg" width="40" height="50">
 </div>
 
 ### Libraries
 <div>
-    <img src="./assets/pandas.svg" width="50" height="50">
+    <img src="./assets/pandas.svg" width="50" height="60">
     <img src="./assets/numpy.svg" width="60" height="60">
     <img src="./assets/matplotlib.svg" width="60" height="60">
     <img src="./assets/seaborn.svg" width="40" height="60">
+</div>
+
+### AI
+<div>
+    <img src="./assets/anthropic.svg" width="50" height="50">
+    <img src="./assets/openai.svg" width="50" height="50">
+    <img src="./assets/gemini.png" width="50" height="50">
 </div>
